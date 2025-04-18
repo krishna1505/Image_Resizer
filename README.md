@@ -1,4 +1,4 @@
-🖼️ Image Resizer Python Script 📐
+# # 🖼️ Image Resizer Python Script 📐
 Welcome to the Image Resizer tool! 🚀 This simple Python script allows you to resize your images quickly and easily, using a graphical user interface (GUI) with Tkinter. Whether you want to reduce the size or customize your image's dimensions, this script has got you covered! 💻✨
 
 Features ⚙️
